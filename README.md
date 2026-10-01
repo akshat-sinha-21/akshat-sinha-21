@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am Akshat Sinha Student in Computer Science and Engineeringin  Birla Institute of Technology , Mesra<br>Backend and Core Languages:C/C++,Python,Javascript,Node.js,HTML/CSS<br>Databases: MongoDB,MySQL,Oracle<br>Cloud & Devops:AWS,Docker,Git/Github
+#  About Me:
+I am Akshat Sinha a Student in Computer Science and Engineering in  Birla Institute of Technology  Mesra<br>Backend and Core Languages:C/C++,Python,Javascript,Node.js,HTML/CSS<br>Databases: MongoDB,MySQL,Oracle<br>Cloud & Devops:AWS,Docker,Git/Github
 
 
 ## 🌐 Socials:
